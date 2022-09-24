@@ -56,7 +56,7 @@ public class main extends javax.swing.JFrame implements ActionListener {
                 }
 
                 try {
-                        app.setIconImage(ImageIO.read(new File("./icon.png")));
+                        app.setIconImage(ImageIO.read(new File("img/icon.png")));
                 }catch(Exception e){
                         System.err.println(e);
                 }
