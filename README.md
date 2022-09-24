@@ -10,8 +10,8 @@ Nimbus, which was introduced in Java SE 6, is used for the UI.
 
 ## Preview
 
-![Preview 1](p1.jpg)
-![Preview 2](p2.jpg)
+![Preview 1](preview/p1.jpg)
+![Preview 2](preview/p2.jpg)
 
 
 ## Known bugs
