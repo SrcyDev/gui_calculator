@@ -20,3 +20,4 @@ Nimbus, which was introduced in Java SE 6, is used for the UI.
 
 1. Undo (X) does not work properly.
 2. The calculation gives error if the Result (=) Button is pressed without any second argument
+3. The text of Subtract (-) and Result (=) Button is different from the specified code.
