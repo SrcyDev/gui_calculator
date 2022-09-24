@@ -2,9 +2,7 @@
 
 A simple calculator in Java.
 
-- This project was just for learning purposes. This project may 
-- receive futute updates but I have no such plans for the near 
-- future.
+> This project was just for learning purposes. This project may receive futute updates but I have no such plans for the near future.
 
 ## Which style is used for the UI ?
 
