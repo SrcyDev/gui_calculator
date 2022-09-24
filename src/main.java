@@ -3,6 +3,7 @@
  * @author Srcydev
  * It is currently in development. Stay tuned as it may receive more feature updates in the near future.
  * Warning: Do not edit things unless you know what you are doing as it may break the UI.
+ * Note: This code contains major bugs.
  */
 
 import javax.imageio.ImageIO;
