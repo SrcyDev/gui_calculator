@@ -10,8 +10,8 @@ Nimbus, which was introduced in Java SE 6, is used for the UI.
 
 ## Preview
 
-[Preview 1](https://github.com/SrcyDev/gui_calculator/tree/main/preview/p1.jpg)
-[Preview 2](https://github.com/SrcyDev/gui_calculator/tree/main/preview/p2.jpg)
+![Preview 1](https://github.com/SrcyDev/gui_calculator/blob/main/preview/p1.png)
+![Preview 2](https://github.com/SrcyDev/gui_calculator/blob/main/preview/p2.png)
 
 
 ## Known bugs
